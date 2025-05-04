@@ -1,0 +1,12 @@
+body{
+    background: url('../images/inventory-vs-stock-.webp') no-repeat center center fixed;
+    background-size: cover;
+}
+
+div.loginHeader{
+    text-align: center;
+}
+
+div.loginHeader h1{
+    color: lightgreen;
+}
